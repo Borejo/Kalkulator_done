@@ -1,0 +1,10 @@
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\VLO\Desktop\Kalkulator1-master\Kalkulator\obj\Debug\Kalkulator.pdb
